@@ -9,7 +9,7 @@ Hi, I’m @KritPrasad05!
 😄 Pronouns: He/Him  
 ⚡ Fun fact: I’m a lazy stud who loves solving complex data challenges!  
 
-<\div>
+</div>
 
 <div align="center">
   
