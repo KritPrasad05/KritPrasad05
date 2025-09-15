@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 # 💫 About Me:
 Hi, I’m @KritPrasad05!  
