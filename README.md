@@ -8,7 +8,9 @@ Hi, I’m @KritPrasad05!
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/krit-prasad-13827b1b1/) | [Email](mailto:kritrp05@gmail.com)  
 😄 Pronouns: He/Him  
 ⚡ Fun fact: I’m a lazy stud who loves solving complex data challenges!  
+
 <\div>
+
 <div align="center">
   
 ## 🌐 Socials:
