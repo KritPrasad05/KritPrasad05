@@ -10,6 +10,7 @@ Hi, I’m @KritPrasad05!
 ⚡ Fun fact: I’m a lazy stud who loves solving complex data challenges!  
 <\div>
 <div align="center">
+  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krit_rk_p05) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krit-prasad-13827b1b1/)  
